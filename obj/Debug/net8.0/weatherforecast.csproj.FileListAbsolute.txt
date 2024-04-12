@@ -1,0 +1,14 @@
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.AssemblyInfoInputs.cache
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.AssemblyInfo.cs
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.csproj.CoreCompileInputs.cache
+C:\Works\weatherforecast\bin\Debug\net8.0\weatherforecast.exe
+C:\Works\weatherforecast\bin\Debug\net8.0\weatherforecast.deps.json
+C:\Works\weatherforecast\bin\Debug\net8.0\weatherforecast.runtimeconfig.json
+C:\Works\weatherforecast\bin\Debug\net8.0\weatherforecast.dll
+C:\Works\weatherforecast\bin\Debug\net8.0\weatherforecast.pdb
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.dll
+C:\Works\weatherforecast\obj\Debug\net8.0\refint\weatherforecast.dll
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.pdb
+C:\Works\weatherforecast\obj\Debug\net8.0\weatherforecast.genruntimeconfig.cache
+C:\Works\weatherforecast\obj\Debug\net8.0\ref\weatherforecast.dll
